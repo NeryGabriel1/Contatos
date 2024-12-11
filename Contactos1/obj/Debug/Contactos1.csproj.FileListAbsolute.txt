@@ -1,0 +1,10 @@
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.csproj.AssemblyReference.cache
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.Form1.resources
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.Properties.Resources.resources
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.csproj.GenerateResource.cache
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.csproj.CoreCompileInputs.cache
+C:\Users\neryc\source\repos\Contactos1\Contactos1\bin\Debug\Contactos1.exe.config
+C:\Users\neryc\source\repos\Contactos1\Contactos1\bin\Debug\Contactos1.exe
+C:\Users\neryc\source\repos\Contactos1\Contactos1\bin\Debug\Contactos1.pdb
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.exe
+C:\Users\neryc\source\repos\Contactos1\Contactos1\obj\Debug\Contactos1.pdb
